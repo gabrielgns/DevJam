@@ -1,0 +1,35 @@
+.title {
+	color: red;
+}
+
+.poll-container {
+	height: 10rem;
+	width: 50rem;
+	background-color: white;
+	margin: 50px;
+	padding: 10px;
+	display: flex;
+	flex-direction: row;
+}
+
+ul {
+	display: flex;
+	flex-direction: row;
+}
+
+li {
+	margin: 30px;
+}
+
+.vote {
+	height: 2.5rem;
+	width: 6rem;
+	margin-top: 25px;
+	background-color: rgb(49, 49, 252);
+	text-decoration: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: white;
+	border-radius: 10px;
+}

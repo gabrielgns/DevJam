@@ -1,0 +1,36 @@
+.login-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	margin-top: 15rem;
+}
+
+.app-name {
+	padding: 4rem;
+	font-size: 100px;
+	color: rgb(107, 107, 252);
+}
+
+.name-box {
+	font-weight: bold;
+	height: 2rem;
+	width: 15rem;
+	border-radius: 10px;
+	border: 0;
+	padding-left: 20px;
+}
+
+.enter-btn {
+	height: 2.5rem;
+	width: 6rem;
+	margin-top: 25px;
+	background-color: rgb(49, 49, 252);
+	text-decoration: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: white;
+	border-radius: 10px;
+}
